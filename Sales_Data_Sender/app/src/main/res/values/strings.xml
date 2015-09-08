@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sales Data Sender</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_list">Country</string>
+
+    <string name="Login_URL">http://dinindu.pe.hu/login.php</string>
+    <string name="Send_URL">http://dinindu.pe.hu/send_data.php</string>
+    <string name="Country_URL">http://dinindu.pe.hu/get_countries.php</string>
+    <string name="Region_URL">http://dinindu.pe.hu/get_regions.php</string>
+    <string name="ChangePassword_URL">http://dinindu.pe.hu/change_password.php</string>
+
+    <string name="Shared_Preference">Sales_Analyser</string>
+    <string name="Encryption_Key">Sales_Analyser@120434D</string>
+
+</resources>
